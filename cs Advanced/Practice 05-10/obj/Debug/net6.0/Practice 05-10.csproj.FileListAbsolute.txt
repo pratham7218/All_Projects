@@ -1,0 +1,15 @@
+C:\.net Training\Cs Advanced\Practice 05-10\bin\Debug\net6.0\Practice 05-10.exe
+C:\.net Training\Cs Advanced\Practice 05-10\bin\Debug\net6.0\Practice 05-10.deps.json
+C:\.net Training\Cs Advanced\Practice 05-10\bin\Debug\net6.0\Practice 05-10.runtimeconfig.json
+C:\.net Training\Cs Advanced\Practice 05-10\bin\Debug\net6.0\Practice 05-10.dll
+C:\.net Training\Cs Advanced\Practice 05-10\bin\Debug\net6.0\Practice 05-10.pdb
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.csproj.AssemblyReference.cache
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.AssemblyInfoInputs.cache
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.AssemblyInfo.cs
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.csproj.CoreCompileInputs.cache
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.dll
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\refint\Practice 05-10.dll
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.pdb
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\Practice 05-10.genruntimeconfig.cache
+C:\.net Training\Cs Advanced\Practice 05-10\obj\Debug\net6.0\ref\Practice 05-10.dll

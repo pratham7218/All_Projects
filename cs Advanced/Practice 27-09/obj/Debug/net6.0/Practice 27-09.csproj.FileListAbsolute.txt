@@ -1,0 +1,15 @@
+C:\.net Training\Cs Advanced\Practice 27-09\bin\Debug\net6.0\Practice 27-09.exe
+C:\.net Training\Cs Advanced\Practice 27-09\bin\Debug\net6.0\Practice 27-09.deps.json
+C:\.net Training\Cs Advanced\Practice 27-09\bin\Debug\net6.0\Practice 27-09.runtimeconfig.json
+C:\.net Training\Cs Advanced\Practice 27-09\bin\Debug\net6.0\Practice 27-09.dll
+C:\.net Training\Cs Advanced\Practice 27-09\bin\Debug\net6.0\Practice 27-09.pdb
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.csproj.AssemblyReference.cache
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.AssemblyInfoInputs.cache
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.AssemblyInfo.cs
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.csproj.CoreCompileInputs.cache
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.dll
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\refint\Practice 27-09.dll
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.pdb
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\Practice 27-09.genruntimeconfig.cache
+C:\.net Training\Cs Advanced\Practice 27-09\obj\Debug\net6.0\ref\Practice 27-09.dll

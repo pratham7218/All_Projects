@@ -1,0 +1,15 @@
+C:\.net Training\udemy\1609-stack overflow post\bin\Debug\net6.0\1609-stack overflow post.exe
+C:\.net Training\udemy\1609-stack overflow post\bin\Debug\net6.0\1609-stack overflow post.deps.json
+C:\.net Training\udemy\1609-stack overflow post\bin\Debug\net6.0\1609-stack overflow post.runtimeconfig.json
+C:\.net Training\udemy\1609-stack overflow post\bin\Debug\net6.0\1609-stack overflow post.dll
+C:\.net Training\udemy\1609-stack overflow post\bin\Debug\net6.0\1609-stack overflow post.pdb
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.csproj.AssemblyReference.cache
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.AssemblyInfoInputs.cache
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.AssemblyInfo.cs
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.csproj.CoreCompileInputs.cache
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.dll
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\refint\1609-stack overflow post.dll
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.pdb
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\1609-stack overflow post.genruntimeconfig.cache
+C:\.net Training\udemy\1609-stack overflow post\obj\Debug\net6.0\ref\1609-stack overflow post.dll

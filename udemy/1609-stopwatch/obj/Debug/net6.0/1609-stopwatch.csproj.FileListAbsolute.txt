@@ -1,0 +1,15 @@
+C:\.net Training\udemy\1609-stopwatch\bin\Debug\net6.0\1609-stopwatch.exe
+C:\.net Training\udemy\1609-stopwatch\bin\Debug\net6.0\1609-stopwatch.deps.json
+C:\.net Training\udemy\1609-stopwatch\bin\Debug\net6.0\1609-stopwatch.runtimeconfig.json
+C:\.net Training\udemy\1609-stopwatch\bin\Debug\net6.0\1609-stopwatch.dll
+C:\.net Training\udemy\1609-stopwatch\bin\Debug\net6.0\1609-stopwatch.pdb
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.csproj.AssemblyReference.cache
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.AssemblyInfoInputs.cache
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.AssemblyInfo.cs
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.csproj.CoreCompileInputs.cache
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.dll
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\refint\1609-stopwatch.dll
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.pdb
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\1609-stopwatch.genruntimeconfig.cache
+C:\.net Training\udemy\1609-stopwatch\obj\Debug\net6.0\ref\1609-stopwatch.dll

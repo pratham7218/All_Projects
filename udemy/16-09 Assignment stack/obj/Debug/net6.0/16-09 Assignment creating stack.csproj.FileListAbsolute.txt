@@ -1,0 +1,15 @@
+C:\.net Training\udemy\16-09 Assignment stack\bin\Debug\net6.0\16-09 Assignment creating stack.exe
+C:\.net Training\udemy\16-09 Assignment stack\bin\Debug\net6.0\16-09 Assignment creating stack.deps.json
+C:\.net Training\udemy\16-09 Assignment stack\bin\Debug\net6.0\16-09 Assignment creating stack.runtimeconfig.json
+C:\.net Training\udemy\16-09 Assignment stack\bin\Debug\net6.0\16-09 Assignment creating stack.dll
+C:\.net Training\udemy\16-09 Assignment stack\bin\Debug\net6.0\16-09 Assignment creating stack.pdb
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.csproj.AssemblyReference.cache
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.AssemblyInfoInputs.cache
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.AssemblyInfo.cs
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.csproj.CoreCompileInputs.cache
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.dll
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\refint\16-09 Assignment creating stack.dll
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.pdb
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\16-09 Assignment creating stack.genruntimeconfig.cache
+C:\.net Training\udemy\16-09 Assignment stack\obj\Debug\net6.0\ref\16-09 Assignment creating stack.dll

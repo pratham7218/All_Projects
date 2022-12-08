@@ -1,0 +1,15 @@
+C:\.net Training\udemy\Assign 20-09 Workflow engine\bin\Debug\net6.0\Assign 20-09 Workflow engine.exe
+C:\.net Training\udemy\Assign 20-09 Workflow engine\bin\Debug\net6.0\Assign 20-09 Workflow engine.deps.json
+C:\.net Training\udemy\Assign 20-09 Workflow engine\bin\Debug\net6.0\Assign 20-09 Workflow engine.runtimeconfig.json
+C:\.net Training\udemy\Assign 20-09 Workflow engine\bin\Debug\net6.0\Assign 20-09 Workflow engine.dll
+C:\.net Training\udemy\Assign 20-09 Workflow engine\bin\Debug\net6.0\Assign 20-09 Workflow engine.pdb
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.csproj.AssemblyReference.cache
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.AssemblyInfoInputs.cache
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.AssemblyInfo.cs
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.csproj.CoreCompileInputs.cache
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.dll
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\refint\Assign 20-09 Workflow engine.dll
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.pdb
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\Assign 20-09 Workflow engine.genruntimeconfig.cache
+C:\.net Training\udemy\Assign 20-09 Workflow engine\obj\Debug\net6.0\ref\Assign 20-09 Workflow engine.dll

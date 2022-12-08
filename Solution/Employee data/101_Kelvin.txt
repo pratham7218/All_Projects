@@ -1,0 +1,16 @@
+
+                                    =================================================
+                                    04 August 2022
+                                    =================================================
+                                    Doctor name:Kelvin
+                                    Doctor id:101
+                                    Edu/Specialization:BHMS/heart
+                                    ----------------------------------------------------
+                                    Gross income:           5000    Five Thousand 
+                                    Deductions(Tax paid):   750      Seven Hundred And Fifty
+                                    ----------------------------------------------------
+                                    Net salary:             4250      Four Thousand  Two Hundred And Fifty
+                                    
+
+
+                                    ----------------------------------------------------

@@ -1,0 +1,15 @@
+C:\.net Training\udemy\16-09 assignment DB command\bin\Debug\net6.0\16-09 assignment DB command.exe
+C:\.net Training\udemy\16-09 assignment DB command\bin\Debug\net6.0\16-09 assignment DB command.deps.json
+C:\.net Training\udemy\16-09 assignment DB command\bin\Debug\net6.0\16-09 assignment DB command.runtimeconfig.json
+C:\.net Training\udemy\16-09 assignment DB command\bin\Debug\net6.0\16-09 assignment DB command.dll
+C:\.net Training\udemy\16-09 assignment DB command\bin\Debug\net6.0\16-09 assignment DB command.pdb
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.csproj.AssemblyReference.cache
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.AssemblyInfoInputs.cache
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.AssemblyInfo.cs
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.csproj.CoreCompileInputs.cache
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.dll
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\refint\16-09 assignment DB command.dll
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.pdb
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\16-09 assignment DB command.genruntimeconfig.cache
+C:\.net Training\udemy\16-09 assignment DB command\obj\Debug\net6.0\ref\16-09 assignment DB command.dll
